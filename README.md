@@ -1,1 +1,1 @@
-# Estoque de produtos com POO em Javascript.
+# Estoque de produtos com POO em Javascript
